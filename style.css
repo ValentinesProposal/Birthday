@@ -1,0 +1,37 @@
+body {
+    background-color: #f0e4e7; /* Soft pink */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #d6336c;
+}
+
+header, footer {
+    color: #d6336c; /* Kirby pink */
+    margin: 20px 0;
+}
+
+#kirbyImage {
+    width: 250px;
+    margin: 20px auto;
+    display: block;
+}
+
+button {
+    background-color: #d6336c; /* Kirby pink */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #bf2a5a;
+}
+
+#poemContainer {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
